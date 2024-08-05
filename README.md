@@ -2,7 +2,7 @@
 How much memory is occupied by map.
 
 ```txt
-go get github.com/520MianXiangDuiXiang520/MapSize
+go get github.com/ilius/go-mapsize
 ```
 
 ```go
@@ -10,7 +10,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/520MianXiangDuiXiang520/MapSize"
+	"github.com/ilius/go-mapsize"
 )
 
 func main() {

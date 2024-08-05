@@ -1,3 +1,3 @@
-module github.com/520MianXiangDuiXiang520/MapSize
+module github.com/ilius/go-mapsize
 
 go 1.18
